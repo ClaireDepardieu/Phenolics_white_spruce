@@ -6,6 +6,6 @@ Raw data files: (1) The file GCAT_WS_3.3.cluseq.fa is a fasta file including ass
 R scripts (1)
 
 Reference cited
-Rigault P., Boyle B., Lepage P., Cooke JEK, Bousquet J, MacKay JJ. (2011). A white spruce gene catalog for conifer genome analyses. Plant Physiology, 157(1):14-28. doi: 10.1104/pp.111.179663. Epub 2011 Jul 5.
+Rigault P., Boyle B., Lepage P., Cooke JEK, Bousquet J, MacKay JJ. (2011). A white spruce gene catalog for conifer genome analyses. Plant Physiology, 157(1):14-28. doi: 10.1104/pp.111.179663.
 
 
